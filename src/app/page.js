@@ -1,9 +1,15 @@
 import Image from 'next/image'
+import Navbar from '@/components/Navbar'
+import Footer from '@/components/Footer'
 
-export default function Home() {
+const Layout = ({children}) => {
   return (
-    <main>
-     portfolio
-    </main>
+    <div>
+        <Navbar />
+        <main>{children}</main>
+        <Footer />
+    </div>
   )
 }
+
+export default Layout

@@ -1,4 +1,4 @@
-import { projectData } from './data.js';
+import { projectData } from "../../pages/api/data";
 
 const Projects = () => {
   return (

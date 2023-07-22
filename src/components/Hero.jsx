@@ -4,7 +4,7 @@ import React from 'react'
 const Hero = () => {
   return (
     <div className='hero-container'>
-        <Image src="public/images/profile.jpg" className='profile-img' width={300} height={300} alt='paulines personal headshot'/>
+        <Image src="/images/profile.jpg" className='profile-img' width={300} height={300} alt='paulines personal headshot'/>
         <div className='hero-text'>
             <h1>Hey, I'm Pauline 👋</h1>
             <p>

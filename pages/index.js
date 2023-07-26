@@ -5,16 +5,18 @@ import About from '@/components/About';
 import Hero from '@/components/Hero';
 import Projects from '@/components/Projects';
 import Head from 'next/head';
+import Layout from '@/components/Layout';
 
 const Home = () => {
     return (
-      <>
+      <Layout>
         <Head>
           <title>Pauline's Portfolio</title>
           <meta name="description" content="Pauline's Portfolio" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link rel="icon" href="/favicon.ico" />
         </Head>
+
         <div>
           <Hero />
           <About />
@@ -22,7 +24,7 @@ const Home = () => {
           <Projects />
           <Contact />
         </div>
-      </>
+      </Layout>
     );
   };
   

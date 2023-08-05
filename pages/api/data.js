@@ -13,13 +13,13 @@ export const projectData = [
         'This is a simple beginner friendly app that allows a user to control the temperature either by increasing or decreasing the value.',
       gitHubLink: 'https://github.com/pauleen123/tempicontrol',
     },
-    // {
-    //   id: 3,
-    //   title: 'Quotes Generator',
-    //   description:
-    //     'Helps you generate quotes from about 1600 quotes written by different authors . Quotes are automatically copied to your clipboards.',
-    //   gitHubLink: 'https://github.com/olawanlejoel/random-quote-generator',
-    // },
+    {
+      id: 3,
+      title: 'Personal Portfolio',
+      description:
+        'This is code generatyed to create an attractive and interactive portfolio for a software developer..',
+      gitHubLink: 'https://github.com/pauleen123/my-portfolio',
+    },
     // {
     //   id: 4,
     //   title: 'Password Generator',

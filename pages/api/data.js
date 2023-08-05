@@ -20,13 +20,13 @@ export const projectData = [
         'This is code generatyed to create an attractive and interactive portfolio for a software developer..',
       gitHubLink: 'https://github.com/pauleen123/my-portfolio',
     },
-    // {
-    //   id: 4,
-    //   title: 'Password Generator',
-    //   description:
-    //     'Helps you generates random passwords, you can select what you want your password to entail and also you can copy generated password to clipboard.',
-    //   gitHubLink: 'https://github.com/olawanlejoel/Password-Generator',
-    // },
+    {
+      id: 4,
+      title: 'Weather App',
+      description:
+        'This is an app to help a user determine the weather in different places across the world.',
+      gitHubLink: 'https://github.com/pauleen123/weather-app.github.io',
+    },
     // {
     //   id: 5,
     //   title: 'Twitter UI Clone',

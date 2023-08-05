@@ -27,11 +27,11 @@ export const projectData = [
         'This is an app to help a user determine the weather in different places across the world.',
       gitHubLink: 'https://github.com/pauleen123/weather-app.github.io',
     },
-    // {
-    //   id: 5,
-    //   title: 'Twitter UI Clone',
-    //   description:
-    //     'Simple Twitter UI clone built with TailwindCSS and Vue Js. This covers only the homepage of Twitter UI. This is cool to get started with TailwindCSS as it helps understand basic concepts.',
-    //   gitHubLink: 'https://github.com/olawanlejoel/TwitterUI-clone',
-    // },
+    {
+      id: 5,
+      title: 'Mathematrixx',
+      description:
+        'this a simple calculator app that also has a feature for math puns',
+      gitHubLink: 'https://github.com/pauleen123/mathematrixx',
+    },
   ];

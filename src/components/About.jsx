@@ -16,13 +16,13 @@ const About = () => {
                     </p>
                     <p>Throughout my career, I have worked on a wide range of projects, from simple static websites to
             complex enterprise-level applications. I am experienced in working with a variety of development
-            tools and frameworks, including React, Angular, Vue.js, Node.js, and Next. js. I am always eager
+            tools and frameworks, including React, Angular, Node.js, and Next. js. I am always eager
             to learn and explore new technologies, and I am constantly seeking out opportunities to improve
             my skills and knowledge.
                     </p>
                 </div>
                 <div className="about-img">
-                <Image src="/images/profile.jpg" className='profile-img' width={300} height={300} alt='paulines personal headshot'/>
+                <Image src="/images/profile2.JPG" className='profile-img' width={300} height={300} alt='paulines personal headshot'/>
 
                 </div>
 
